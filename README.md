@@ -1,1 +1,0 @@
-Aplikasi crud sederhana laravel
