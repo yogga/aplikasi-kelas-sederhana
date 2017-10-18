@@ -1,0 +1,1 @@
+Aplikasi sederhana dengan laravel 
